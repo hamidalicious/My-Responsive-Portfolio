@@ -1,0 +1,34 @@
+
+.body {
+    background-color: deepskyblue;
+}
+
+.part1 {
+ border-width: medium; border-color: gold; border-collapse: inherit; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mb-4 {
+    margin: auto; width: 60%;
+}
+
+.aboutMe {
+    border: 0.3rem; border-bottom: darkred; text-align: center;
+
+}
+
+#col-md-6 {
+    background: silver; border-radius: 0.5rem; float: right;
+    
+}
+
+.card {
+    margin: 20px 20px;
+}
+
+.card-body {
+    box-shadow: rgb(0, 0, 0);
+}
+
+.title {
+    margin-top: 8px;
+}
